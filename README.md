@@ -1,1 +1,2 @@
+Description: 
 Search-Movie-Project-Using-LWC is a Salesforce Lightning Web Components (LWC) project that allows users to search for movies online using real-time data from the OMDb API. The app offers movie search functionality with filtering options, displays search results in an interactive UI, and shows detailed information for each selected movie. Component communication is implemented using Lightning Message Service for modular and scalable design. This repository demonstrates best practices in LWC development and API integration.
