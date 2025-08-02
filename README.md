@@ -14,7 +14,8 @@ Jump right in to swiftly find movies within your Salesforce platform—efficient
 
 ## Screenshots
 Below is the screenshot of the application:
-![Uploading image.png…]()
+
+<img width="1100" height="567" alt="Movie Search" src="https://github.com/user-attachments/assets/225e1491-de29-4ecc-a43f-3634c9d93ee3" />
 
 
 ## How to Use
