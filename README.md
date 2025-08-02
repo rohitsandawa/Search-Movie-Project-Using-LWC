@@ -12,6 +12,11 @@ This Salesforce Lightning Web Components (LWC) app enables users to effortlessly
 ## Quick Start
 Jump right in to swiftly find movies within your Salesforce platform—efficient, stylish, and user-friendly!
 
+## Screenshots
+Below is the screenshot of the application:
+![Uploading image.png…]()
+
+
 ## How to Use
 1. **Launch the App:**  
    Visit the LWC Movie Search page: [http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch](https://orgfarm-38343e7a41-dev-ed.develop.my.site.com/moviesearch)
