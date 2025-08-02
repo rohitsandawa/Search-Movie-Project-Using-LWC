@@ -1,5 +1,5 @@
 ##🎬 Search-Movie-Project
- 
+ ## Overview
  It is a dynamic Salesforce Lightning Web Components (LWC) application that empowers users to discover movies online with real-time data powered by the OMDb API.
 
 ✨ Features
