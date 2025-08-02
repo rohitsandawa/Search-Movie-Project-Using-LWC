@@ -14,7 +14,7 @@ Jump right in to swiftly find movies within your Salesforce platform—efficient
 
 ## How to Use
 1. **Launch the App:**  
-   Visit the LWC Movie Search page: [http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch](http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch)
+   Visit the LWC Movie Search page: [http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch](https://orgfarm-38343e7a41-dev-ed.develop.my.site.com/moviesearch)
 
 2. **Begin Your Search:**  
    - Use the dropdown to choose whether you want to search for Movies, Series, or Episodes.
