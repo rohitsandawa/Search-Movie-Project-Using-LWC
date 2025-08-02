@@ -1,33 +1,37 @@
- # Movie Search Project
- 
- ## Overview
- It is a dynamic Salesforce Lightning Web Components (LWC) application that empowers users to discover movies online with real-time data powered by the OMDb API.
+# Explore & Discover Movies with LWC
 
-## Features
-Instant Movie Search: Find movies quickly using live data from OMDb.
-User-Friendly Interface: Intuitive design for seamless searching and browsing.
-Comprehensive Results: View detailed movie information including title, genre, release year, and more.
-Built with LWC: Leverages the power and flexibility of Salesforce Lightning Web Components.
+## Introduction
+This Salesforce Lightning Web Components (LWC) app enables users to effortlessly browse and explore movies online, featuring up-to-date details sourced via the OMDb API.
 
-## Get Started
-Experience a fast, elegant, and efficient way to search for movies directly within your Salesforce environment!
+## Highlights
+- **Fast Search Experience:** Instantly locate movies using current data from OMDb.
+- **Intuitive Design:** Enjoy a smooth, easy-to-navigate interface for searching and viewing.
+- **Rich Movie Information:** Access details such as title, genre, year of release, and more.
+- **Powered by LWC:** Built on Salesforce’s robust Lightning Web Components framework.
 
-## Usage
-1. **Navigate to the Application:**
-   Open the LWC Movies Search application at [http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch](http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch).
+## Quick Start
+Jump right in to swiftly find movies within your Salesforce platform—efficient, stylish, and user-friendly!
 
-2. **Search for Movies/Series:**
-   - Use the dropdown to select the type (Movie, Series, Episode).
-   - Enter a search term in the search input box.
-   - Use the pagination input to select a page number.
+## How to Use
+1. **Launch the App:**  
+   Visit the LWC Movie Search page: [http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch](http://curious-unicorn-6v69e7-dev-ed.my.site.com/lwcmoviesearch)
 
-3. **View Results:**
-   - Search results will be displayed as movie cards.
-   - Click on a movie card to view detailed information.
+2. **Begin Your Search:**  
+   - Use the dropdown to choose whether you want to search for Movies, Series, or Episodes.
+   - Enter your desired keywords in the search box.
+   - Pick a page number if you want to browse more results.
 
-## API Integration
-This project uses the OMDB API for movie data. The API key is defined in the `MovieSearch` component's JavaScript file. You may need to replace it with your own API key if necessary.
+3. **Review Your Results:**  
+   - The application will display movie cards with results.
+   - Click any card to view comprehensive information about the selected title.
 
-- **API Endpoint:**
-  - Search Movies/Series: `https://www.omdbapi.com/?s={searchTerm}&type={type}&page={pageNumber}&apikey={apiKey}`
-  - Movie Details: `https://www.omdbapi.com/?i={movieId}&plot=full&apikey={apiKey}`
+## OMDb API Details
+This tool integrates with the OMDb API to fetch movie data. The API key is located in the JavaScript file for the `MovieSearch` component. You are welcome to substitute your own API key as needed.
+
+- **Endpoints Used:**
+  - Search: `https://www.omdbapi.com/?s={searchTerm}&type={type}&page={pageNumber}&apikey={apiKey}`
+  - Details: `https://www.omdbapi.com/?i={movieId}&plot=full&apikey={apiKey}`
+
+---
+
+Let me know if you'd like any further changes or formatting!
