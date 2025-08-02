@@ -1,4 +1,4 @@
-# Explore & Discover Movies with LWC
+# Search Movies with LWC
 
 ## Introduction
 This Salesforce Lightning Web Components (LWC) app enables users to effortlessly browse and explore movies online, featuring up-to-date details sourced via the OMDb API.
