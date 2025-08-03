@@ -15,8 +15,7 @@ Jump right in to swiftly find movies within your Salesforce platform—efficient
 ## Screenshots
 Below is the screenshot of the search movie page
 
-<img width="1100" height="567" alt="Movie Search" src="https://github.com/user-attachments/assets/225e1491-de29-4ecc-a43f-3634c9d93ee3" />
-
+<img width="1104" height="581" alt="search" src="https://github.com/user-attachments/assets/d8c66547-f051-4ed4-982d-8e292c5533b2" />
 
 ## How to Use
 1. **Launch the App:**  
@@ -35,8 +34,8 @@ Below is the screenshot of the search movie page
 This tool integrates with the OMDb API to fetch movie data. The API key is located in the JavaScript file for the `MovieSearch` component. You are welcome to substitute your own API key as needed.
 
 - **Endpoints Used:**
-  - Search: `https://www.omdbapi.com/?s=${this.SelectedSearch}&type=${this.SelectedType}&page=${this.SelectedPageNo}&apikey={apiKey}`
-  - Details: `https://www.omdbapi.com/?i=${movieId}&plot=full&apikey={apiKey}`
+  - Search: `https://www.omdbapi.com/?s=${this.SelectedSearch}&type=${this.SelectedType}&page=${this.SelectedPageNo}&apikey={API_KEY}`
+  - Details: `https://www.omdbapi.com/?i=${movieId}&plot=full&apikey={API_KEY}`
 
 ---
 
